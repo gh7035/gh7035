@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Header -->
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=360&color=gradient&text=Hello,%20I'm%20GYUHAN&fontSize=60"/>
-
-  <br/><br/>
 
   <!-- Profile Image -->
   <img src="https://github.com/gh7035.png" width="180" style="border-radius:50%" />
