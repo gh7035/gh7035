@@ -1,7 +1,7 @@
 <div align = center>
   <img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello,%20I'm%20GYUHAN&reversal=false&textBg=false&fontSize=60/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=435&lines=I+want+to+be+a+Frontend+DEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=435&lines=I+want+to+be+a+Backend+DEV)](https://git.io/typing-svg)
 
 
 <!-- My Stats & Profiles -->
@@ -27,7 +27,7 @@
 </table>
 <br>
 
-[![JAEJUN090210's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JAEJUN090210&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
+[![JAEJUN090210's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gh7035&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
 
 
 <br>
