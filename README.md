@@ -1,34 +1,79 @@
-<div align = center>
-  <img src=https://capsule-render.vercel.app/api?type=blur&height=400&color=gradient&text=Hello,%20I'm%20GYUHAN&reversal=false&textBg=false&fontSize=60/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&multiline=true&width=435&lines=I+want+to+be+a+Backend+DEV)](https://git.io/typing-svg)
+  <!-- Header -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=360&color=gradient&text=Hello,%20I'm%20GYUHAN&fontSize=60"/>
 
+  <br/><br/>
 
-<!-- My Stats & Profiles -->
-<h2 align="center">My Stats</h2>
+  <!-- Profile Image -->
+  <img src="https://github.com/gh7035.png" width="180" style="border-radius:50%" />
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
-      <h3>GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=gh7035&show_icons=true&theme=default&hide_border=true&bg_color=180,000000,&title_color=000000&text_color=000000"/>
-    </td>
-    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
-      <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh7035&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
-    </td>
-    <td align="center" valign="top" width="33%" style="border: 1px solid #444; padding: 10px;">
-      <h3>GitAnimals</h3>
-        <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gh7035&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/gh7035" width="600" height="300"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<br>
+  <br/><br/>
 
-[![JAEJUN090210's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gh7035&theme=github-compact)](https://github.com/EMBKSM/github-readme-activity-graph)
+  <!-- Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems" />
 
+</div>
 
-<br>
+---
+
+## 🧑‍💻 Backend Developer
+
+- Java 기반 **서버 애플리케이션 개발**
+- Spring Boot를 활용한 **REST API 설계 및 구현**
+- 인증/인가(JWT), 트랜잭션, JPA 기반 데이터 처리에 관심
+- 안정성·확장성을 고려한 백엔드 구조 지향
+
+---
+
+## 🛠 Tech Stack
+
+### 💡 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=for-the-badge"/>
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### ⚙ Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 📊 My Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=gh7035&show_icons=true&hide_border=true" height="160"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh7035&layout=compact&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 🐾 GitAnimals
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gh7035&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/gh7035" width="600" height="300"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gh7035&theme=github-compact"/>
+
 </div>
