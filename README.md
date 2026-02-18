@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=I+want+be+Backend+Developer;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems" />
 
 </div>
 
@@ -19,12 +19,6 @@
 
 ## 🧑‍💻 Backend Developer
 
-- Java 기반 **서버 애플리케이션 개발**
-- Spring Boot를 활용한 **REST API 설계 및 구현**
-- 인증/인가(JWT), 트랜잭션, JPA 기반 데이터 처리에 관심
-- 안정성·확장성을 고려한 백엔드 구조 지향
-
----
 
 ## 🛠 Tech Stack
 
@@ -50,17 +44,6 @@
 
 ---
 
-## 📊 My Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gh7035&show_icons=true&hide_border=true" height="160"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh7035&layout=compact&hide_border=true" height="160"/>
-
-</div>
-
----
 
 ## 🐾 GitAnimals
 
