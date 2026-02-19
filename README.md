@@ -3,7 +3,7 @@
 
 
   <!-- Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=I+want+be+Backend+Developer;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=I+want+be+a+Backend+Developer;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems" />
 
 </div>
 
