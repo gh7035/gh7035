@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0F2027&height=200&section=header&text=Backend%20Developer&fontSize=40&fontColor=ffffff"/> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=I'm+a+Backend+Developer;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=500&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+Github+Page!;Java+%7C+Spring+Boot;Build+Reliable+Server+Systems"/>
 
 </div>
 
