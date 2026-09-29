@@ -36,7 +36,7 @@
 </p>
 
 ---
-
+<!--
 ## 🐾 GitAnimals
 
 <div align="center">
@@ -45,6 +45,7 @@
 </a>
 </div>
 
+-->
 ---
 
 <div align="center">
